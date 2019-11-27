@@ -8,7 +8,7 @@ The basic idea is, I have created a docker file which is responsible to to run a
 ---
 
 ## Flow Char Of WorkFlow
-![markdown](dockerFlowChart.png)
+![markdown](pictures/dockerFlowChart.png)
 
 ## Description of Docker Compose File
 Docker Compose file contains the following lines of code.
