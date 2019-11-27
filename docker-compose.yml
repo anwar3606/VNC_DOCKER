@@ -1,0 +1,9 @@
+version: "3.0"
+
+services:
+  e2e:
+    image: e2e:latest
+    build: ./
+    ports: 
+      - "6901:6901"
+      - "5901:5901"
